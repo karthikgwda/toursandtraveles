@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://toursandtraveles.pages.dev/sitemap.xml
